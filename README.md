@@ -4,13 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Entrepreneur & Software Developer
 ---------------------------------
 
-A software developer and entrepreneur passionate about building scalable solutions at the intersection of technology, education, and access.
-
-<h3 align="center">Software Developer turned Entrepreneur</h3>
-
 - 🔭 I’m currently working on [Humans of Zindua](https://humansofzindua@zinduaschool.com)
 
-- 🌱 I’m currently learning **DevOps Engineering**
+- 🌱 I’m currently learning **DevOps Engineering** and **MLOps**
 
 - 👨‍💻 All of my projects are available at [jessekaranja.com](jessekaranja.com)
 
