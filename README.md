@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Zindua School
+- 🌱 I’m currently learning DevOps 
+- 💬 Ask me about Entrepreneurship, Product Design, DevOps and Software Development
+- 📫 How to reach me: hello@jessekaranja.com
 <!--
 **Karanja-JK/karanja-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
