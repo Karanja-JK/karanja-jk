@@ -8,10 +8,6 @@ A software developer and entrepreneur passionate about building scalable solutio
 
 <h3 align="center">Software Developer turned Entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanja-jk&label=Profile%20views&color=0e75b6&style=flat" alt="karanja-jk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanja-jk" alt="karanja-jk" /></a> </p>
-
 - 🔭 I’m currently working on [Humans of Zindua](https://humansofzindua@zinduaschool.com)
 
 - 🌱 I’m currently learning **DevOps Engineering**
@@ -35,6 +31,4 @@ A software developer and entrepreneur passionate about building scalable solutio
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanja-jk&show_icons=true&locale=en&layout=compact" alt="karanja-jk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanja-jk&show_icons=true&locale=en" alt="karanja-jk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanja-jk&" alt="karanja-jk" /></p>
 
