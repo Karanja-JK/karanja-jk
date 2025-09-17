@@ -8,7 +8,7 @@ Entrepreneur & Software Developer
 
 - 🌱 I’m currently learning **DevOps Engineering** and **MLOps**
 
-- 👨‍💻 All of my projects are available at [jessekaranja.com](jessekaranja.com)
+- 👨‍💻 See more about me here [jessekaranja.com](jessekaranja.com)
 
 - 📝 I regularly write articles on [https://substack.com/@jessekaranja](https://substack.com/@jessekaranja)
 
