@@ -12,7 +12,7 @@ Entrepreneur & Software Developer
 
 - 📝 I regularly write articles on [https://substack.com/@jessekaranja](https://substack.com/@jessekaranja)
 
-- 📫 How to reach me **hello@jessekaranja.com**
+- 📫 How to reach me **karanjajesse06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
