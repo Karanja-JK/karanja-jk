@@ -6,7 +6,7 @@ Entrepreneur & Software Developer
 
 - 🔭 I’m currently working on [Humans of Zindua](https://humansofzindua@zinduaschool.com)
 
-- 🌱 I’m currently learning **DevOps Engineering** and **MLOps**
+- 🌱 I’m currently learning **DevOps Engineering** and **Cloud Computing**
 
 - 👨‍💻 See more about me here [jessekaranja.com](jessekaranja.com)
 
